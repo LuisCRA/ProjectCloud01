@@ -7,7 +7,7 @@
  </head>
  <body>
   <div>
-    <img src="/images/baner1.png">
+    <img src="/images/baner 1.png">
   </div>
   <h1 style="text-align:center;">Clientes</h1>
   <table>
