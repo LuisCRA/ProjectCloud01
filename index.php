@@ -6,6 +6,9 @@
   <link rel="stylesheet" href="style.css" />
  </head>
  <body>
+  <div>
+    <img src="/images/baner1.png">
+  </div>
   <h1 style="text-align:center;">Clientes</h1>
   <table>
    <?php
