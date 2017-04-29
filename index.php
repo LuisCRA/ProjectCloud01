@@ -42,7 +42,7 @@
                     <span class="sr-only">Toggle navigation</span>
                     Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+                <a class="navbar-brand" href="index.html">Inicio</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -86,7 +86,7 @@
     <!-- Main Content -->
     <div class="container">
         <div class="row">
-            <h1 style="text-align:center;">Clientes</h1>
+            <h1 style="text-align:center;">Empleados</h1>
   <table class="table">
    <thead>
    <tr>
